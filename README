@@ -46,5 +46,5 @@
  1. Run "make" in the root directory of the project.
  2. Run tstream2jpeg  with the following usage:
  	
- 		tstream2jpeg pathToOutputFile pathToJPEGFolder	
+ 		tstream2jpeg pathToOutputFile pathToJPGFolder	
  
