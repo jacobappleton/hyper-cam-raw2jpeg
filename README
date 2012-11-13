@@ -43,7 +43,10 @@
  
  To run this software, perform the following:
  
- 1. Run "make" in the root directory of the project.
+ 1. Copy util.o from the compiled version of hyper-cam 
+    (https://github.com/jacobappleton/hyper-cam.git) into the hyper-cam-raw2jpeg
+    folder.
+ 2. Run "make" in the root directory of the project.
  2. Run tstream2jpeg  with the following usage:
  	
  		tstream2jpeg pathToOutputFile pathToJPGFolder	
